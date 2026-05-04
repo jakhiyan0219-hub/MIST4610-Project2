@@ -8,7 +8,7 @@ Will Federer (https://github.com/willfederer10/MIST4610-project2)
 
 Summer Sayedzada (put link here)
 
-Tony Jimenez (put link here)
+Tony Jimenez (https://github.com/tonyj010/MIST4610-Project2)
 
 Ja’Khiyan Dowdy (https://github.com/jakhiyan0219-hub/MIST4610-Project2.git)
 
